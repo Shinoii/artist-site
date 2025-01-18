@@ -1,0 +1,1 @@
+<h1 align = 'center'>Website for Artists</h1>
